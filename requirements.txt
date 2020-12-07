@@ -1,0 +1,7 @@
+sklearn~=0.0
+funcy~=1.15
+argparse~=1.4.0
+opencv-python~=4.4.0.46
+pycocotools~=2.0.2
+scikit-learn~=0.23.2
+utils~=1.0.1
