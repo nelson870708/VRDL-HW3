@@ -66,3 +66,8 @@ python3 train.py
 ```shell
 python3 make_submission.py
 ```
+
+## Thanks for
+facebookresearch: [detectron2](https://github.com/facebookresearch/detectron2)
+
+akarazniewicz: [cocosplit](https://github.com/akarazniewicz/cocosplit)
